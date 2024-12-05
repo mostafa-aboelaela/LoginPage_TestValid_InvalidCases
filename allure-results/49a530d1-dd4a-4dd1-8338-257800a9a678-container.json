@@ -1,0 +1,1 @@
+{"uuid":"49a530d1-dd4a-4dd1-8338-257800a9a678","name":"Feature.F01_Login.Setup","children":["4cd222e8-0022-4f24-89f5-06aa19e0a747"],"description":"","befores":[{"name":"Setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1733399427569,"stop":1733399436321}],"afters":[],"start":1733399427566,"stop":1733399436321}

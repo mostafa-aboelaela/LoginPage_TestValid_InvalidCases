@@ -1,0 +1,1 @@
+{"uuid":"53543e50-76f2-4fb7-8821-9dd77d920084","name":"Feature.F01_Login.Setoff","children":["f05e35a3-fab4-4bcb-86ec-a1be2704b452"],"description":"","befores":[],"afters":[{"name":"Setoff","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1730396249894,"stop":1730396250181}],"start":1730396249894,"stop":1730396250181}
